@@ -755,19 +755,19 @@
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 754
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 755
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 756
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 757
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 758
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 759
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 757
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 758
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 759
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 760
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 761
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 762
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 763
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 764
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 765
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 766
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 767
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 768
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 769
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 764
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 765
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 766
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 767
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 768
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 769
 "../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_White_srgb.uasset" 770
 "../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_White_srgb.uexp" 771
 "../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 772
@@ -963,14 +963,14 @@
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNED_Oidn2-3_HighQuality.uexp" 962
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNED_Oidn2-3_HighQuality_Alpha.uasset" 963
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNED_Oidn2-3_HighQuality_Alpha.uexp" 964
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/GI_Main.uasset" 965
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/GI_Main.uexp" 966
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/WBP_MainMenu.uasset" 967
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/WBP_MainMenu.uexp" 968
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/BP_LobbyGameState.uasset" 969
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/BP_LobbyGameState.uexp" 970
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/BP_LobbyGameMode.uasset" 971
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/BP_LobbyGameMode.uexp" 972
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/GI_Main.uasset" 965
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/GI_Main.uexp" 966
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/WBP_MainMenu.uasset" 967
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/WBP_MainMenu.uexp" 968
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/BP_LobbyGameState.uasset" 969
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/BP_LobbyGameState.uexp" 970
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/BP_LobbyGameMode.uasset" 971
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/BP_LobbyGameMode.uexp" 972
 "../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 973
 "../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 974
 "../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 975
@@ -1032,126 +1032,126 @@
 "../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uexp" 1031
 "../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset" 1032
 "../../../Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uexp" 1033
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LobbyLevel.uexp" 1034
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/LobbyLevel.umap" 1035
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LobbyLevel.uexp" 1034
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/LobbyLevel.umap" 1035
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1036
 "../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1037
 "../../../Engine/Content/Maps/Entry.uexp" 1038
 "../../../Engine/Content/Maps/Entry.umap" 1039
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Card_Template.uasset" 1040
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Card_Template.uexp" 1041
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/WBP_RoundIntermission.uasset" 1042
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/WBP_RoundIntermission.uexp" 1043
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/WBP_RoundDisplay.uasset" 1044
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/WBP_RoundDisplay.uexp" 1045
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/SA_VOIP.uasset" 1046
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/SA_VOIP.uexp" 1047
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Actions/IA_Look.uasset" 1048
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Actions/IA_Look.uexp" 1049
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/IMC_MouseLook.uasset" 1050
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/IMC_MouseLook.uexp" 1051
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Actions/IA_Jump.uasset" 1052
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Actions/IA_Jump.uexp" 1053
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Actions/IA_Move.uasset" 1054
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Actions/IA_Move.uexp" 1055
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/IMC_Default.uasset" 1056
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/IMC_Default.uexp" 1057
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Touch/BPI_TouchInterface.uasset" 1058
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Touch/BPI_TouchInterface.uexp" 1059
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Card_Template.uasset" 1040
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Card_Template.uexp" 1041
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/WBP_RoundIntermission.uasset" 1042
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/WBP_RoundIntermission.uexp" 1043
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/WBP_RoundDisplay.uasset" 1044
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/WBP_RoundDisplay.uexp" 1045
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/SA_VOIP.uasset" 1046
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/SA_VOIP.uexp" 1047
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Actions/IA_Look.uasset" 1048
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Actions/IA_Look.uexp" 1049
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/IMC_MouseLook.uasset" 1050
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/IMC_MouseLook.uexp" 1051
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Actions/IA_Jump.uasset" 1052
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Actions/IA_Jump.uexp" 1053
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Actions/IA_Move.uasset" 1054
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Actions/IA_Move.uexp" 1055
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/IMC_Default.uasset" 1056
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/IMC_Default.uexp" 1057
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Touch/BPI_TouchInterface.uasset" 1058
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Touch/BPI_TouchInterface.uexp" 1059
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1060
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 1061
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1062
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 1063
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Touch/UI_Thumbstick.uasset" 1064
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Touch/UI_Thumbstick.uexp" 1065
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Touch/UI_TouchSimple.uasset" 1066
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Input/Touch/UI_TouchSimple.uexp" 1067
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" 1068
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Meshes/SK_Mannequin.uexp" 1069
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset" 1070
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Rigs/PA_Mannequin.uexp" 1071
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.ubulk" 1072
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" 1073
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uexp" 1074
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.ubulk" 1075
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" 1076
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uexp" 1077
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.ubulk" 1078
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.uasset" 1079
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.uexp" 1080
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" 1081
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uexp" 1082
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Materials/M_Mannequin.uasset" 1083
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Materials/M_Mannequin.uexp" 1084
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.ubulk" 1085
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.uasset" 1086
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.uexp" 1087
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.ubulk" 1088
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.uasset" 1089
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.uexp" 1090
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.ubulk" 1091
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.uasset" 1092
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.uexp" 1093
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_01.uasset" 1094
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_01.uexp" 1095
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.ubulk" 1096
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.uasset" 1097
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.uexp" 1098
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.ubulk" 1099
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.uasset" 1100
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.uexp" 1101
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.ubulk" 1102
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.uasset" 1103
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.uexp" 1104
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_02.uasset" 1105
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_02.uexp" 1106
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" 1107
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uexp" 1108
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Touch/UI_Thumbstick.uasset" 1064
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Touch/UI_Thumbstick.uexp" 1065
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Touch/UI_TouchSimple.uasset" 1066
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Input/Touch/UI_TouchSimple.uexp" 1067
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" 1068
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Meshes/SK_Mannequin.uexp" 1069
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset" 1070
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Rigs/PA_Mannequin.uexp" 1071
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.ubulk" 1072
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" 1073
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uexp" 1074
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.ubulk" 1075
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" 1076
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uexp" 1077
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.ubulk" 1078
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.uasset" 1079
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MRA.uexp" 1080
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" 1081
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uexp" 1082
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Materials/M_Mannequin.uasset" 1083
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Materials/M_Mannequin.uexp" 1084
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.ubulk" 1085
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.uasset" 1086
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_N.uexp" 1087
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.ubulk" 1088
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.uasset" 1089
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_MRA.uexp" 1090
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.ubulk" 1091
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.uasset" 1092
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_D.uexp" 1093
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_01.uasset" 1094
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_01.uexp" 1095
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.ubulk" 1096
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.uasset" 1097
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_N.uexp" 1098
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.ubulk" 1099
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.uasset" 1100
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_MRA.uexp" 1101
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.ubulk" 1102
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.uasset" 1103
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_D.uexp" 1104
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_02.uasset" 1105
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Materials/Quinn/MI_Quinn_02.uexp" 1106
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" 1107
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uexp" 1108
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 1109
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 1110
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 1111
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 1112
 "../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uasset" 1113
 "../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 1114
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uasset" 1115
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uexp" 1116
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uasset" 1115
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/MM_Idle.uexp" 1116
 "../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimCurveCompressionSettings.uasset" 1117
 "../../../Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimCurveCompressionSettings.uexp" 1118
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Right.uasset" 1119
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Right.uexp" 1120
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Left.uasset" 1121
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Left.uexp" 1122
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uasset" 1123
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uexp" 1124
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd.uasset" 1125
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd.uexp" 1126
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uasset" 1127
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uexp" 1128
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uasset" 1129
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uexp" 1130
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset" 1131
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uexp" 1132
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uasset" 1133
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uexp" 1134
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset" 1135
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uexp" 1136
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Right.uasset" 1119
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Right.uexp" 1120
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Left.uasset" 1121
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Left.uexp" 1122
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uasset" 1123
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uexp" 1124
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd.uasset" 1125
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Bwd.uexp" 1126
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uasset" 1127
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uexp" 1128
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uasset" 1129
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uexp" 1130
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset" 1131
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uexp" 1132
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uasset" 1133
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uexp" 1134
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset" 1135
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uexp" 1136
 "../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 1137
 "../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 1138
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset" 1139
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uexp" 1140
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uasset" 1141
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uexp" 1142
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset" 1143
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uexp" 1144
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uasset" 1145
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uexp" 1146
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset" 1147
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uexp" 1148
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" 1149
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uexp" 1150
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/BP_RoundGameState.uasset" 1151
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/BP_RoundGameState.uexp" 1152
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/BP_MyGameMode.uasset" 1153
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/BP_MyGameMode.uexp" 1154
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/ThirdPerson/Lvl_ThirdPerson.uexp" 1155
-"C:/Users/david/OneDrive/Documents/Unreal Projects/Chinatown/Content/ThirdPerson/Lvl_ThirdPerson.umap" 1156
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset" 1139
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uexp" 1140
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uasset" 1141
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uexp" 1142
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset" 1143
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uexp" 1144
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uasset" 1145
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Fall_Loop.uexp" 1146
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset" 1147
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uexp" 1148
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" 1149
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uexp" 1150
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/BP_RoundGameState.uasset" 1151
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/BP_RoundGameState.uexp" 1152
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/BP_MyGameMode.uasset" 1153
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/BP_MyGameMode.uexp" 1154
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/ThirdPerson/Lvl_ThirdPerson.uexp" 1155
+"C:/Users/david/OneDrive/Documents/Unreal Projects/PlotWars/Content/ThirdPerson/Lvl_ThirdPerson.umap" 1156
