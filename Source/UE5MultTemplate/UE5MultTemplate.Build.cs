@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class PlotWars : ModuleRules
+public class UE5MultTemplate : ModuleRules
 {
-	public PlotWars(ReadOnlyTargetRules Target) : base(Target)
+	public UE5MultTemplate(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class PlotWarsEditorTarget : TargetRules
+public class UE5MultTemplateEditorTarget : TargetRules
 {
-	public PlotWarsEditorTarget(TargetInfo Target) : base(Target)
+	public UE5MultTemplateEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
-		ExtraModuleNames.AddRange( new string[] { "PlotWars" } );
+		ExtraModuleNames.AddRange( new string[] { "UE5MultTemplate" } );
 	}
 }

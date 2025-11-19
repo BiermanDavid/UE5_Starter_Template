@@ -7,7 +7,7 @@
 /**
  * 
  */
-class PLOTWARS_API MyClass
+class UE5MULTTEMPLATE_API MyClass 
 {
 public:
 	MyClass();

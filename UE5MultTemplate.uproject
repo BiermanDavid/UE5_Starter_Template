@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "PlotWars",
+			"Name": "UE5MultTemplate",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
