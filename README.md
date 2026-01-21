@@ -9,6 +9,16 @@ A living Unreal Engine 5 multiplayer template that will be released publicly whe
 - **Lobby System**: Automatic level loading when maximum lobby size is reached
 - **Settings System**: Working save settings for FOV, Windowed mode, graphics, Bloom, Motion Blur, and Vsync.
 
+## Settings Panel
+
+![Settings Panel](https://github.com/BiermanDavid/UE5_Starter_Template/blob/NewMaster/readme/SettingsPanel.png)
+
+The settings panel graphic above shows an example of a pause menu **without a background image**, featuring **hover detection** on each setting. When a setting is highlighted, the details panel updates to correspond to that specific game option.  
+
+This functionality is achieved by creating **individual widget blueprints** combined with **widget switchers**.  
+The background can be customized to use a **simple blur**, a **standard image**, or even a combination of both.
+
+
 ## 🛠️ Development Roadmap
 
 ### Server Browser Improvements
