@@ -18,6 +18,15 @@ The settings panel graphic above shows an example of a pause menu **without a ba
 This functionality is achieved by creating **individual widget blueprints** combined with **widget switchers**.  
 The background can be customized to use a **simple blur**, a **standard image**, or even a combination of both.
 
+## Settings Panel Example with Background
+
+![Settings Panel with Background](https://github.com/BiermanDavid/UE5_Starter_Template/blob/NewMaster/readme/MotionBlurBackground.png)
+
+This example demonstrates the **hover detection in action** along with a **background image** applied to the settings menu.  
+
+- When a setting is hovered, the details panel updates to match the highlighted option.  
+- Hover detection also provides **sound feedback** both **on hover** and **on unhover**, enhancing the user experience.  
+- The background can be styled with **motion blur**, a **static image**, or a combination of both, depending on the desired aesthetic.
 
 ## 🛠️ Development Roadmap
 
